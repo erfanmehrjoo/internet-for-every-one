@@ -1,0 +1,14 @@
+Register For .IR Domain:
+https://www.nic.ir/Create_New_Handle
+
+
+Register For Arvan CDN:
+https://accounts.arvancloud.ir/register?lang=fa
+
+
+What is MY IP Addresses:
+https://whatismyipaddress.com
+
+
+Get Free Config from FreeNode:
+https://getafreenode.com/foriran
